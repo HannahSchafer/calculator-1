@@ -30,7 +30,7 @@ def cube(num):
 
 def power(num, exponent):
     """Return num raised to the power of exponent"""
-    pass
+    return num ** exponent
 
 
 def mod(num1, num2):
